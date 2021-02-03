@@ -21,3 +21,5 @@ if [ -f '/Users/sas/Downloads/google-cloud-sdk/path.zsh.inc' ]; then . '/Users/s
 if [ -f '/Users/sas/Downloads/google-cloud-sdk/completion.zsh.inc' ]; then . '/Users/sas/Downloads/google-cloud-sdk/completion.zsh.inc'; fi
 
 alias ls="ls -lahrt"
+
+ssh-add ~/.ssh/id_rsa
