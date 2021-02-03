@@ -22,4 +22,6 @@ if [ -f '/Users/sas/Downloads/google-cloud-sdk/completion.zsh.inc' ]; then . '/U
 
 alias ls="ls -lahrt"
 
+git config --global user.name "sashumi"
+git config --global user.email "55672042+sashumi@users.noreply.github.com"
 ssh-add ~/.ssh/id_rsa
